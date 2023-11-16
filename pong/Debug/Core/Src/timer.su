@@ -1,0 +1,4 @@
+../Core/Src/timer.c:23:5:timer_init	16	static
+../Core/Src/timer.c:34:5:timer_register	16	static
+../Core/Src/timer.c:49:5:timer_func_divider_update	24	static
+../Core/Src/timer.c:62:6:timer_tick	16	static

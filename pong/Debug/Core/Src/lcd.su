@@ -1,0 +1,10 @@
+../Core/Src/lcd.c:37:13:delay_12_nanosec	16	static
+../Core/Src/lcd.c:43:13:lcd_reset	8	static
+../Core/Src/lcd.c:51:13:lcd_write	24	static
+../Core/Src/lcd.c:86:13:lcd_dsp_on_off	16	static
+../Core/Src/lcd.c:91:13:lcd_write_addr	24	static
+../Core/Src/lcd.c:105:6:lcd_clear	16	static
+../Core/Src/lcd.c:116:6:lcd_draw_clear_rect	24	static
+../Core/Src/lcd.c:127:6:lcd_write_number	24	static
+../Core/Src/lcd.c:138:9:lcd_init	8	static
+../Core/Src/lcd.c:150:6:lcd_loop	16	static

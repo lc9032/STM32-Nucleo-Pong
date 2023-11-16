@@ -1,0 +1,9 @@
+../Core/Src/app.c:46:13:draw_border_line_on_lcd	16	static
+../Core/Src/app.c:57:13:update_score_on_lcd	8	static
+../Core/Src/app.c:66:13:update_ball_position	16	static
+../Core/Src/app.c:112:13:update_paddle_position	16	static
+../Core/Src/app.c:133:13:get_enc_btn_state	4	static
+../Core/Src/app.c:154:13:ai_mode	8	static
+../Core/Src/app.c:182:13:game_init	16	static
+../Core/Src/app.c:222:6:app_init	8	static
+../Core/Src/app.c:238:6:app_loop	8	static
